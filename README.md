@@ -9,7 +9,7 @@
 - [Improvements to be made](#improvements-to-be-made)
 - [File Structure](#file-structure)
 - [How to use this?](#how-to-use-this)
-
+ 
 ## Introduction
 This repository contains a detailed look into the key concepts and ideas behind the infamous Modern Portfolio Theory by Harry Markowitz. Here we will:
 1) Explain the fundamental idea of balancing risk and reward when it comes to optimising a portfolio.
